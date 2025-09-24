@@ -15,5 +15,4 @@ A simple Android shopping cart app built with Kotlin, Retrofit, Room Database, D
 - Add items to cart, stored in Room Database.
 - View cart with item list and total value.
 - Remove items from cart, updating Room Database.
-- (Optional) Reactive updates with StateFlow/LiveData.
-- (Optional) Unit tests for ViewModel logic.
+
