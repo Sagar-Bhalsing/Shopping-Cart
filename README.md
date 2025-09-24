@@ -16,3 +16,5 @@ A simple Android shopping cart app built with Kotlin, Retrofit, Room Database, D
 - View cart with item list and total value.
 - Remove items from cart, updating Room Database.
 
+## APK
+- Download the app: [ShoppingCart APK](https://drive.google.com/file/d/1bgW7oBQCNWsQVcgI6SQyovKOBH_aQdQj/view?usp=sharing)
